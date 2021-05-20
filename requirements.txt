@@ -27,7 +27,7 @@ pydantic==1.7.4
 PyQt5==5.12.3
 PyQt5-sip==12.9.0
 PyQtWebEngine==5.12.1
-pywin32==228
+pywin32
 PyYAML==5.4.1
 pyzmq==20.0.0
 QtPy==1.9.0
